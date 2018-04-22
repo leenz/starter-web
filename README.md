@@ -5,7 +5,7 @@ This repository is for showing how Git and GitHub work.  You can practice mergin
 This project contains a bunch of simple exercises.
 
 ## Purpose
-To learn git.
+To learn git through a bunch of examples.
 
 ## Deployment
 Don't know yet.
