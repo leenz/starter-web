@@ -7,7 +7,8 @@
 
 # THANKS
 
-    <name>
+    <name> 
+	All my fans!
 
 # TECHNOLOGY COLOPHON
 
