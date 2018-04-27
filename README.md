@@ -11,3 +11,5 @@ To learn git through a bunch of examples.
 Don't know yet.
 
 Sample website with plenty of files for demos
+
+All rights reserved.
